@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Lantmännen Cerealia AB",
+    "Address": "Karlavägen 164, 104 35 Stockholm",
+    "ContactPerson": "Maria Lindqvist",
+    "Phone": "0105560000",
+    "Email": "maria.lindqvist@lantmannen.com"
+  },
+  {
+    "Name": "Nordic Sugar AB",
+    "Address": "Munkvägen 2, 232 81 Arlöv",
+    "ContactPerson": "Johan Petersson",
+    "Phone": "0405350000",
+    "Email": "johan.petersson@nordicsugar.com"
+  },
+  {
+    "Name": "Fazer Sverige AB",
+    "Address": "Herrhagsvägen 2, 120 26 Stockholm",
+    "ContactPerson": "Sara Bergström",
+    "Phone": "0862210000",
+    "Email": "sara.bergstrom@fazer.com"
+  }
+]

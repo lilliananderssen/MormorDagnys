@@ -1,0 +1,6 @@
+[
+  { "Name": "Semla 2-pack", "PricePerUnit": 49.90, "WeightGrams": 280, "UnitsInPackaging": 2 },
+  { "Name": "Kanelbulle 6-pack", "PricePerUnit": 59.90, "WeightGrams": 480, "UnitsInPackaging": 6 },
+  { "Name": "Surdegsbröd", "PricePerUnit": 79.90, "WeightGrams": 750, "UnitsInPackaging": 1 },
+  { "Name": "Mazarin 4-pack", "PricePerUnit": 69.90, "WeightGrams": 320, "UnitsInPackaging": 4 }
+]

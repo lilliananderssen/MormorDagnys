@@ -1,0 +1,26 @@
+[
+  {
+    "StoreName": "ICA Supermarket Storgatan",
+    "Phone": "08-123 45 67",
+    "Email": "order@ica-storgatan.se",
+    "ContactPerson": "Anna Karlsson",
+    "DeliveryAddress": { "Street": "Storgatan 12", "PostalCode": "111 23", "City": "Stockholm" },
+    "InvoiceAddress": { "Street": "Box 100", "PostalCode": "101 00", "City": "Stockholm" }
+  },
+  {
+    "StoreName": "Coop Centrum Göteborg",
+    "Phone": "031-987 65 43",
+    "Email": "inkop@coop-centrum.se",
+    "ContactPerson": "Lars Svensson",
+    "DeliveryAddress": { "Street": "Kungsgatan 45", "PostalCode": "411 19", "City": "Göteborg" },
+    "InvoiceAddress": { "Street": "Kungsgatan 45", "PostalCode": "411 19", "City": "Göteborg" }
+  },
+  {
+    "StoreName": "Hemköp Malmö City",
+    "Phone": "040-222 33 44",
+    "Email": "bestallning@hemkop-malmo.se",
+    "ContactPerson": "Eva Lindgren",
+    "DeliveryAddress": { "Street": "Södergatan 8", "PostalCode": "211 34", "City": "Malmö" },
+    "InvoiceAddress": { "Street": "Ekonomiavdelningen, Box 5", "PostalCode": "200 00", "City": "Malmö" }
+  }
+]
